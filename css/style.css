@@ -64,7 +64,7 @@ li a,
 .drop-link {
     display: flex;
     flex-direction: row;
-    color: lightskyblue;
+    color: yellowgreen;
     padding-right: 10px;
 }
 
